@@ -16,8 +16,3 @@ while True:
             print(f'{metro} metros é igual a {resultado}cm')
 
         break
-
-# elif metro <= 1:
-#    print(f'{metro} metro é igual a {resultado}cm')
-# else:
-#   print(f'{metro} metros é igual a {resultado}cm')
